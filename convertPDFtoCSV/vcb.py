@@ -4,7 +4,7 @@ import os
 
 # file convert
 pdf_paths = [
-    'VCB_24-26.pdf',
+    './data/VCB_24-26.pdf',
 ]
 
 # Identify the columns in the table
